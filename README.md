@@ -1,3 +1,5 @@
 # mkdocs-template
-My tweaked mkdocs template for projects
+
+Template for project documentation usign MkDocs.
+
 https://andrematte.github.io/mkdocs-template/
