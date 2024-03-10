@@ -12,9 +12,10 @@ def function(attr1, attr2):
 ## Icons and Emojis
 
 :smile:
- 
 :fontawesome-regular-face-laugh-wink:
-
 :fontawesome-brands-twitter:{ .twitter }
-
 :octicons-heart-fill-24:{ .heart }
+
+## Adding Source-code Classes
+
+::: src.class
